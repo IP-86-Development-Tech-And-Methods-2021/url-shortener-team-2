@@ -3,7 +3,7 @@ const express = require("express");
 const {MongoClient} = require("mongodb");
 const bodyParser = require("body-parser");
 const port = 3000;
-const url="mongodb+srv://admin:122122@cluster0.xqpka.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+const url="";
 const dbName = "lab5";
 const colName = "user-info";
 
